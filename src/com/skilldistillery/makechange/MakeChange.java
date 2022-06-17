@@ -1,4 +1,4 @@
-package com.skilldistillery.makechage;
+package com.skilldistillery.makechange;
 
 public class MakeChange {
 
